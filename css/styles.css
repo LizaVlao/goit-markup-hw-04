@@ -511,12 +511,13 @@ color: #434455;
 
 .footer-wrapper {
     display: flex;
-  align-items: flex-start;
+   align-items: baseline;
     gap: 120px;
 }
 
 .footer-logo-wrapper {
     max-width: 264px;
+    margin-right: 120px;
 }
 
 .footer-logo {
@@ -588,9 +589,9 @@ color: #434455;
     background-color: #31d0aa;
 }
 
-.footer .social-link:hover,
-.footer .social-link:focus {
-    background-color: #31d0aa;
+.footer-social-icon 
+{
+    fill: var(--#31d0aa, #f4f4fd);
 }
 /* Footer section end */
 
