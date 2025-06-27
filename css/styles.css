@@ -192,8 +192,7 @@ transition: color 250ms (0.4, 0, 0.2, 1);
 
 
 .banner
-{
-    background-color: #2E2F42;
+{   background-image: url(../images/heroban.jpg);
     text-align: center;
     padding: 188px 0 188px;
    
