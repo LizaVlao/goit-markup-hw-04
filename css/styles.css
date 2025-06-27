@@ -275,7 +275,7 @@ margin:auto
     width: calc((100% - 72px) / 4);
     
 }
-.about-list-title
+ .about-list-title
  {
     font-weight: 500;
     font-size: 20px;
@@ -292,6 +292,17 @@ margin:auto
     line-height: 150%;
     letter-spacing: 0.02em;
     color: #434455;
+}
+.icon-about
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 112px;
+    margin-bottom: 8px;
+    background-color: #f4f4fd;
+    border-radius: 4px;
+    border: 1px solid #8e8f99;
 }
 /* About section end */
 
